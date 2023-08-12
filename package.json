@@ -9,6 +9,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "google-maps-api-loader": "^1.1.1",
+    "pinia": "^2.1.6",
     "vue": "^3.3.4"
   },
   "devDependencies": {
