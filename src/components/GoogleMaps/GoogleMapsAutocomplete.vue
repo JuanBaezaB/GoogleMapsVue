@@ -2,7 +2,6 @@
     <div>
       <input
         ref="autocompleteInput"
-        
         placeholder="Enter a location..."
       />
     </div>
